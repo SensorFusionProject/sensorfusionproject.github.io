@@ -6,13 +6,14 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-# baseurl: '/'
+baseurl: '/'
 
 # Website info
 title: Sensor Fusion Project
 description: Radar + Camera + LiDAR
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+# logo: assets/images/blog-icon.png
+logo: assets/images/self-driving-logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
@@ -71,7 +72,7 @@ username: sensorfusionproject
 repo: sensorfusionproject
 branch: master
 relative_source: ../
-# destination: ../jasper2-pages/
+destination: ../jasper2-pages/
 production_url:  https://sensorfusionproject.github.io/
 source_url:  https://github.com/sensorfusionproject/sensorfusionproject.github.io/
 
