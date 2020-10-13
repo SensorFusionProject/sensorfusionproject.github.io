@@ -1,5 +1,6 @@
 ---
 layout: post
+hidden: true
 current: post
 cover: assets/images/sky.jpg
 navigation: True

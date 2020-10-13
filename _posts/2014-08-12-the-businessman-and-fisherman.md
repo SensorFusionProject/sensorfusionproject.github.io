@@ -1,5 +1,6 @@
 ---
 layout: post
+hidden: true
 current: post
 cover: assets/images/water.jpg
 navigation: True

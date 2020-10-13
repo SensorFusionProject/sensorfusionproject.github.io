@@ -9,3 +9,4 @@ services:
         ports:
             - 4000:4000
         command: 'jekyll serve --force_polling --incremental'
+        # command: 'jekyll serve --force_polling'

@@ -14,3 +14,8 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+# lidar:
+#   name: lidar
+#   description: False
+#   cover: False
+

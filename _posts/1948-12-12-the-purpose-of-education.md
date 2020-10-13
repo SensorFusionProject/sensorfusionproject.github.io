@@ -1,5 +1,6 @@
 ---
 layout: post
+hidden: true
 current: post
 cover: assets/images/grapes.jpg
 navigation: True
