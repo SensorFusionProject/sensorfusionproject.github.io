@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 50 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
@@ -10,12 +10,12 @@ baseurl: '/'
 
 # Website info
 title: Sensor Fusion Project
-description: Radar + Camera + LiDAR
-cover: assets/images/blog-cover.jpg
-# logo: assets/images/blog-icon.png
-logo: assets/images/self-driving-logo.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+description: RaDAR + Camera + LiDAR
+cover: assets/images/samples/blog-cover.jpg
+# logo: assets/images/samples/blog-icon.png
+logo: assets/images/samples/self-driving-logo.png
+logo_dark: assets/images/samples/favicon.png
+favicon: assets/images/samples/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info

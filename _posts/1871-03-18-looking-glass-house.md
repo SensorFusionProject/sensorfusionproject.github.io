@@ -2,7 +2,7 @@
 layout: post
 hidden: true
 current: post
-cover: 'assets/images/summit.jpg'
+cover: 'assets/images/samples/summit.jpg'
 navigation: True
 title: Looking-Glass house
 date: 1871-03-18 10:18:00

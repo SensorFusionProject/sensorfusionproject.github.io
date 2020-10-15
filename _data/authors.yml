@@ -1,33 +1,31 @@
-coolwindjo:
-  username: coolwindjo
+coolwind:
+  username: coolwind
   name: CoolWind
   location: Seoul, Korea
-  url_full: http://coolwindjo.github.io/algoguru/
-  url: coolwindjo.github.io/algoguru
-  bio: A professional 
-  picture: assets/images/ghost.png
-  # facebook: ghost
-  # twitter: tryghost
-  cover: False
+  url_full: http://coolwindjo.github.io
+  url: coolwindjo.github.io
+  bio: A professional developer
+  picture: assets/images/samples/cls.png
+  cover: assets/images/samples/cls63amg_running.jpeg
 pji:
   username: pji
   name: PJI
   location: Daejeon, Korea
   url_full: https://blog.naver.com/tinz6461
   url: blog.naver.com/tinz6461
-  bio: A professional 
-  picture: assets/images/hannah.jpg
+  bio: A professional doctor candidate
+  picture: assets/images/samples/hannah.jpg
   # facebook: False
   # twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/samples/hannah-cover.jpg
 pjh:
   username: pjh
   name: PJH
   location: Daegu, Korea
   url_full: 
   url: 
-  bio: A professional
-  picture: assets/images/john.jpg
+  bio: A professor
+  picture: assets/images/samples/john.jpg
   facebook: False
   twitter: False
   cover: False
