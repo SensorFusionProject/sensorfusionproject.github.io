@@ -1,11 +1,10 @@
 ---
 layout: post
 current: post
-# cover: assets/images/samples/water.jpg
-cover: assets/images/samples/writing.jpg
+cover: assets/images/cover/writing.jpg
 navigation: True
 title: 포스팅 하는 법
-tags: [getting-started]
+tags: [getting-started, blog]
 class: post-template
 subclass: 'post'
 author: coolwind
@@ -22,15 +21,15 @@ Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-m
 ```yaml
 layout: post
 current: post
-cover: assets/images/samples/water.jpg
+cover: assets/images/cover/whatever_in_the_cover_folder.jpg
 navigation: True
-title: TITLE
+title: your_title
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 toc: true
 tags: [tag1, tag2]     # TAG names should always be lowercase
 class: post-template
 subclass: 'post'
-author: coolwind
+author: your_nickname
 ```
 
 > **Note**: The posts' ***layout*** has been set to `post` by default, so there is no need to add the variable ***layout*** in Front Matter block.

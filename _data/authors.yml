@@ -17,7 +17,7 @@ pji:
   picture: assets/images/samples/hannah.jpg
   # facebook: False
   # twitter: erisds
-  cover: assets/images/samples/hannah-cover.jpg
+  cover: assets/images/cover/hannah-cover.jpg
 pjh:
   username: pjh
   name: PJH

@@ -11,11 +11,11 @@ baseurl: '/'
 # Website info
 title: Sensor Fusion Project
 description: RaDAR + Camera + LiDAR
-cover: assets/images/samples/blog-cover.jpg
-# logo: assets/images/samples/blog-icon.png
-logo: assets/images/samples/self-driving-logo.png
-logo_dark: assets/images/samples/favicon.png
-favicon: assets/images/samples/favicon.png
+cover: assets/images/blog/blog-cover.jpg
+# logo: assets/images/blog/blog-icon.png
+logo: assets/images/blog/self-driving-logo.png
+logo_dark: assets/images/blog/favicon.png
+favicon: assets/images/blog/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info

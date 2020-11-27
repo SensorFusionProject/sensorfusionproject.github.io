@@ -1,11 +1,11 @@
 ---
+hidden: true
 layout: post
 current: post
-# cover: assets/images/samples/bear.jpg
-cover: assets/images/samples/sky.jpg
+cover: assets/images/cover/sky.jpg
 navigation: True
 title: Text and Typography
-tags: [getting-started]
+tags: [getting-started, blog]
 class: post-template
 subclass: 'post'
 math: true
@@ -65,7 +65,7 @@ Click the hook will locate the footnote[^footnote].
 
 ## Image
 
-![Desktop View]({{ "/assets/images/samples/2020-10-15/mockup.png" | relative_url }})
+![Desktop View]({{ "/assets/images/post/2020-10-15/mockup.png" | relative_url }})
 
 
 ## Inline code

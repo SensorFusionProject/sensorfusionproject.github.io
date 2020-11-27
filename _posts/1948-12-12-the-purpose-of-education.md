@@ -1,8 +1,8 @@
 ---
-layout: post
 hidden: true
+layout: post
 current: post
-cover: assets/images/samples/grapes.jpg
+cover: assets/images/cover/grapes.jpg
 navigation: True
 title: The Purpose of Education
 date: 1948-12-12 10:18:00
