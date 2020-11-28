@@ -4,7 +4,6 @@ current: post
 cover: assets/images/cover/design.jpg
 navigation: True
 title: How to start the Sensor Fusion Project
-toc: true
 tags: [getting-started, ros, docker, git]
 class: post-template
 subclass: 'post'
