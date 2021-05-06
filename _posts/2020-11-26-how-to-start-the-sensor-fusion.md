@@ -72,9 +72,14 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDltFNAyuz2eRra1NIdYC9Nh/3e/OQh4JXXuvFTv/s
 
 ```terminal
 
-git clone git@github.com:SensorFusionProject/SensorFusion.git
-cd SensorFusion
-git submodule init && git submodule update
+git clone --recursive git@github.com:SensorFusionProject/SensorFusion.git
+
+```
+- If you want to update submodule after cloning the repository
+
+```terminal
+
+git submodule update --init --recursive
 
 ```
 
